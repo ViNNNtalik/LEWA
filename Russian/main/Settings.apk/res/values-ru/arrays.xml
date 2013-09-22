@@ -308,8 +308,8 @@
         <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутренняя память устройства</item>
-        <item>Съемная SD-карта</item>
+        <item>Память телефона</item>
+        <item>SD-карта</item>
         <item>На усмотрение системы</item>
     </string-array>
     <string-array name="app_install_location_values">
